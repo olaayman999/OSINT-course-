@@ -3,7 +3,8 @@ Compilation of Resources from TCM's OSINT Course
 
 ### Sock Puppets
 
-Intro to Creating an Effective Sock Puppet (wayback archive): https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/
+Intro to Creating an Effective Sock Puppet (wayback archive):https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/
+
     https://www.fortinet.com/resources/cyberglossary/operational-security
     
 
