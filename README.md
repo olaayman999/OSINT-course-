@@ -1,41 +1,11 @@
 # Open-Source-Intelligence-Resources
 Compilation of Resources from TCM's OSINT Course
 
-### General Links
-
-TCM-Security: https://tcm-sec.com/
-
-Links to Course:
-* Udemy: https://www.udemy.com/course/osint-fundamentals/
-* TCM-Academy: https://academy.tcm-sec.com/p/osint-fundamentals
-
-Twitter: https://twitter.com/thecybermentor
-
-Twitch: https://twitch.tv/thecybermentor
-
-YouTube: https://youtube.com/c/thecybermentor
-
-Discord: https://tcm-sec.com/discord/
-
-### Note Keeping
-
-KeepNote: http://keepnote.org/
-
-CherryTree - https://www.giuspen.com/cherrytree/
-
-Joplin - https://joplinapp.org/
-
-Notion - https://www.notion.so/
-
-OneNote - https://onenote.com/
-
-Greenshot - https://getgreenshot.org/
-
-Flameshot - https://github.com/flameshot-org/flameshot
-
 ### Sock Puppets
 
 Intro to Creating an Effective Sock Puppet (wayback archive): https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/
+    https://www.fortinet.com/resources/cyberglossary/operational-security
+    
 
 The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 
