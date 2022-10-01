@@ -3,19 +3,26 @@ Compilation of Resources from TCM's OSINT Course
 
 ### Sock Puppets
 
-Intro to Creating an Effective Sock Puppet (wayback archive):https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/ 
+✔✔ Intro to Creating an Effective Sock Puppet (wayback archive):https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/ 
 
-(me) Operational Security (OPSEC) https://www.fortinet.com/resources/cyberglossary/operational-security
+✔✔ 👩 Operational Security (OPSEC) https://www.fortinet.com/resources/cyberglossary/operational-security
     
-The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
+✔✔ The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 
-My Process for Setting up Anonymous Sock Puppet Accounts(reddit) - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
+✔✔ 👩 Pareto principle - https://en.wikipedia.org/wiki/Pareto_principle
 
-Fake Name Generator - https://www.fakenamegenerator.com/
+✔✔ My Process for Setting up Anonymous Sock Puppet Accounts(reddit) - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
 
-This Person Does not Exist - https://www.thispersondoesnotexist.com/
+🐱‍👤 Fake Name Generator - https://www.fakenamegenerator.com/
 
-Privacy.com - https://privacy.com/join/LADFC *$5 credit given on signup
+🐱‍👤 proton mail - https://proton.me/
+
+🐱‍👤 This Person Does not Exist - https://www.thispersondoesnotexist.com/
+
+🐱‍👤 Privacy.com - https://privacy.com/join/LADFC *$5 credit given on signup
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Search Engine OSINT
 
