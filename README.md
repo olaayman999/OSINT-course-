@@ -53,6 +53,8 @@ Yandex - https://yandex.com
 
 TinEye - https://tineye.com
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 ### Email OSINT
 
 Hunter.io - https://hunter.io/
@@ -66,6 +68,8 @@ Email Hippo - https://tools.verifyemailaddress.io/
 Email Checker - https://email-checker.net/validate
 
 Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 ### Password OSINT 
 
@@ -81,6 +85,8 @@ Scylla.sh - https://scylla.sh/
 
 HaveIBeenPwned - https://haveibeenpwned.com/
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 ### Username OSINT
 
 NameChk - https://namechk.com/
@@ -88,6 +94,8 @@ NameChk - https://namechk.com/
 WhatsMyName - https://whatsmyname.app/
 
 NameCheckup - https://namecheckup.com/
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 ### People OSINT
 
@@ -116,6 +124,8 @@ TrueCaller - https://www.truecaller.com/
 CallerID Test - https://calleridtest.com/
 
 Infobel - https://infobel.com/
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 ### Social Media OSINT
 
@@ -151,6 +161,8 @@ ImgInn - https://imginn.com/
 
 Snapchat Maps - https://map.snapchat.com
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 ### Website OSINT
 
 BuiltWith - https://builtwith.com/
@@ -179,15 +191,21 @@ Shodan - https://shodan.io
 
 Wayback Machine - https://web.archive.org/
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 ### Business OSINT
 
 Open Corporates - https://opencorporates.com/
 
 AI HIT - https://www.aihitdata.com/
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 ### Wireless OSINT
 
 WiGLE - https://wigle.net/
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 ### Building an OSINT Lab
 
@@ -198,6 +216,8 @@ VirtualBox - https://www.virtualbox.org/wiki/Downloads
 TraceLabs OSINT VM - https://www.tracelabs.org/initiatives/osint-vm
 
 TraceLabs OSINT VM Installation Guide - https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 ### Working with OSINT Tools
 
@@ -212,6 +232,8 @@ httprobe - https://github.com/tomnomnom/httprobe
 Amass - https://github.com/OWASP/Amass
 
 GoWitness - https://github.com/sensepost/gowitness/wiki/Installation
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 ### Additional Resources
 
