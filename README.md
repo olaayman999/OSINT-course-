@@ -26,23 +26,24 @@ Compilation of Resources from TCM's OSINT Course
 
 ### Search Engine OSINT
 
-Google - https://www.google.com/
+🐱‍👤 Google Advanced Search - https://www.google.com/advanced_search
 
-Google Advanced Search - https://www.google.com/advanced_search
+📑 Google Search Guide - http://www.googleguide.com/print/adv_op_ref.pdf
 
-Google Search Guide - http://www.googleguide.com/print/adv_op_ref.pdf
+📑 Bing Search Guide - https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
 
-Bing - https://www.bing.com/
+📑 DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
 
-Bing Search Guide - https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
+🐱‍👤 OSINT tools - https://www.osinttechniques.com/osint-tools.html
 
-Yandex - https://yandex.com/
+🐱‍👤 ZoomEye search engine  https://www.zoomeye.org/
 
-DuckDuckGo - https://duckduckgo.com/
+🐱‍👤 Censys Search https://search.censys.io/
 
-DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
+🐱‍👤 BuiltWith- https://builtwith.com/
 
-Baidu - http://www.baidu.com/
+-----------------------------------------------------------------------------------------------------------------
+
 
 ### Image OSINT
 
